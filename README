@@ -1,4 +1,7 @@
  # Arrays
+  --Prefix sum
+  --Trap rain water problem
+  --maximum j-i such that arr[j]>arr[i]
  2D Matrix
  --Transpose of Matrix
  --rotateMatrix 90 deg clockwise
