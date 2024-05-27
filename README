@@ -2,6 +2,7 @@
   --Prefix sum
   --Trap rain water problem
   --maximum j-i such that arr[j]>arr[i]
+  --majority element (Moores voting algorithm)
  2D Matrix
  --Transpose of Matrix
  --rotateMatrix 90 deg clockwise
