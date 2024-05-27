@@ -8,3 +8,7 @@
  --rotateMatrix 90 deg clockwise
  --search in matrix sorted in rowwise and columnwise 
 
+# Recursion
+ --basic
+ --power calcuation 
+ -- No. of path in n*m matrix
