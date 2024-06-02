@@ -20,3 +20,6 @@
  --GCD
  --LCM
  --Trailing zero in factorial
+ # Bit Manipulation
+ -- RightMost set bit
+ -- Kernighans algrorithm
