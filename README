@@ -23,3 +23,6 @@
  # Bit Manipulation
  -- RightMost set bit
  -- Kernighans algrorithm
+ --singleNumber which is appear only once in array of repeating element
+ --two number which appear only once
+ --duplicate and missing number
