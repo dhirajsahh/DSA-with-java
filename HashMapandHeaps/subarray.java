@@ -44,13 +44,20 @@ public class subarray {
         return count;
 
     }
-    public static void main(String args[]){
+
+
+
+    //equal no of zero one
+       public static void main(String args[]){
 
         int a[]={2,8,-3,-5,2,-4,6,1,2,1,-3,4};
         int maxlen=lsaw0sum(a);
         System.out.println(maxlen);
         int ans=noofsubarrayw0sum(a);
         System.out.println(ans);
+    
+
+        
 
     }
 }
