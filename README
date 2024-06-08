@@ -3,6 +3,7 @@
   --Trap rain water problem
   --maximum j-i such that arr[j]>arr[i]
   --majority element (Moores voting algorithm)
+  --Array intersection and union using hashset
  2D Matrix
  --Transpose of Matrix
  --rotateMatrix 90 deg clockwise
@@ -28,5 +29,12 @@
  --duplicate and missing number
  #string
  --palindromic substring
- --String compression1 and 2
- --
+ --String compression 1 and 2
+ --substring
+ #Hashmap and hashset
+ --most  repeated character
+ --hashset basic
+ --consquective longest subarray
+ --largest subarray with zero sum
+ --No. of subarray with zero sum
+ 
