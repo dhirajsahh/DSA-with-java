@@ -1,14 +1,14 @@
 import java.util.HashMap;
 
-public class subarray {
-    
+public class subarray { 
+    //largest subarray with zero sum
     public static int lsaw0sum(int arr[]){
 
         int maxlen=0;
         HashMap<Integer,Integer>hm=new HashMap<>();
         int i=-1;
         int sum=0;
-        hm.put(sum,i);
+        hm.put(sum,i); //for subarray of single element []
         while(i<arr.length-1){
             i++;
             sum+=arr[i];
@@ -45,9 +45,6 @@ public class subarray {
 
     }
 
-
-
-    //equal no of zero one
        public static void main(String args[]){
 
         int a[]={2,8,-3,-5,2,-4,6,1,2,1,-3,4};
