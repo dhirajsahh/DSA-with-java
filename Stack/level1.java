@@ -2,7 +2,7 @@
 import java.util.Stack;
 
 public class level1 {
-     
+     //Duplicate brackets
     public static boolean DuplicateBrackets(String str){
 
         Stack<Character>s=new Stack<>();
@@ -26,7 +26,7 @@ public class level1 {
         return true;
     }
     public static boolean isValid(String s){
-
+  // valid parentheses
         Stack<Character>stack=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
