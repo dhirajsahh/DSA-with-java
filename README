@@ -37,4 +37,13 @@
  --consquective longest subarray
  --largest subarray with zero sum
  --No. of subarray with zero sum
- 
+ --minimum window substring
+ # stack
+ --implementation of stack using array
+ --Reverse String
+ --Reverse Stack
+ --Duplicate brackets
+ --valid parentheses
+ --maximumAreainHistogram
+ --next Greater element on the right
+ --stockSpan
