@@ -47,3 +47,9 @@
  --maximumAreainHistogram
  --next Greater element on the right
  --stockSpan
+# Binary search
+--search of key in a array sorted in ascending order
+--search of key in a array sorted in descending order
+--first and last occurence of an element in sorted array
+--count of element in sorted array
+
