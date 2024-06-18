@@ -52,4 +52,6 @@
 --search of key in a array sorted in descending order
 --first and last occurence of an element in sorted array
 --count of element in sorted array
-
+--Number of time a sorted array is rotated
+--smallest element in a sorted rotated array
+--find an element in sorted rotated array
