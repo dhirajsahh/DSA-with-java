@@ -60,10 +60,8 @@ public class minimumwindow {
             char ch=s1.charAt(i);
             set.add(ch);
           }
-          String t="";
-          
-          System.out.println(set);
-          return "";
+          //
+        
 
     }
     public static void main(String[] args) {
